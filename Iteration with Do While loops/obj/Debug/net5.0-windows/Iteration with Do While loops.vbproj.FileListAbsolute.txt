@@ -1,0 +1,18 @@
+D:\vb\Iteration with Do While loops\bin\Debug\net5.0-windows\Iteration with Do While loops.exe
+D:\vb\Iteration with Do While loops\bin\Debug\net5.0-windows\Iteration with Do While loops.deps.json
+D:\vb\Iteration with Do While loops\bin\Debug\net5.0-windows\Iteration with Do While loops.runtimeconfig.json
+D:\vb\Iteration with Do While loops\bin\Debug\net5.0-windows\Iteration with Do While loops.runtimeconfig.dev.json
+D:\vb\Iteration with Do While loops\bin\Debug\net5.0-windows\Iteration with Do While loops.dll
+D:\vb\Iteration with Do While loops\bin\Debug\net5.0-windows\ref\Iteration with Do While loops.dll
+D:\vb\Iteration with Do While loops\bin\Debug\net5.0-windows\Iteration with Do While loops.pdb
+D:\vb\Iteration with Do While loops\obj\Debug\net5.0-windows\Iteration with Do While loops.vbproj.AssemblyReference.cache
+D:\vb\Iteration with Do While loops\obj\Debug\net5.0-windows\Iteration_with_Do_While_loops.Form1.resources
+D:\vb\Iteration with Do While loops\obj\Debug\net5.0-windows\Iteration with Do While loops.vbproj.GenerateResource.cache
+D:\vb\Iteration with Do While loops\obj\Debug\net5.0-windows\Iteration with Do While loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\Iteration with Do While loops\obj\Debug\net5.0-windows\Iteration with Do While loops.AssemblyInfoInputs.cache
+D:\vb\Iteration with Do While loops\obj\Debug\net5.0-windows\Iteration with Do While loops.AssemblyInfo.vb
+D:\vb\Iteration with Do While loops\obj\Debug\net5.0-windows\Iteration with Do While loops.vbproj.CoreCompileInputs.cache
+D:\vb\Iteration with Do While loops\obj\Debug\net5.0-windows\Iteration with Do While loops.dll
+D:\vb\Iteration with Do While loops\obj\Debug\net5.0-windows\ref\Iteration with Do While loops.dll
+D:\vb\Iteration with Do While loops\obj\Debug\net5.0-windows\Iteration with Do While loops.pdb
+D:\vb\Iteration with Do While loops\obj\Debug\net5.0-windows\Iteration with Do While loops.genruntimeconfig.cache
