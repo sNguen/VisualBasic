@@ -1,0 +1,18 @@
+D:\vb\2D Arrays and Nested Loops\bin\Debug\net5.0-windows\2D Arrays and Nested Loops.exe
+D:\vb\2D Arrays and Nested Loops\bin\Debug\net5.0-windows\2D Arrays and Nested Loops.deps.json
+D:\vb\2D Arrays and Nested Loops\bin\Debug\net5.0-windows\2D Arrays and Nested Loops.runtimeconfig.json
+D:\vb\2D Arrays and Nested Loops\bin\Debug\net5.0-windows\2D Arrays and Nested Loops.runtimeconfig.dev.json
+D:\vb\2D Arrays and Nested Loops\bin\Debug\net5.0-windows\2D Arrays and Nested Loops.dll
+D:\vb\2D Arrays and Nested Loops\bin\Debug\net5.0-windows\ref\2D Arrays and Nested Loops.dll
+D:\vb\2D Arrays and Nested Loops\bin\Debug\net5.0-windows\2D Arrays and Nested Loops.pdb
+D:\vb\2D Arrays and Nested Loops\obj\Debug\net5.0-windows\2D Arrays and Nested Loops.vbproj.AssemblyReference.cache
+D:\vb\2D Arrays and Nested Loops\obj\Debug\net5.0-windows\_2D_Arrays_and_Nested_Loops.Form1.resources
+D:\vb\2D Arrays and Nested Loops\obj\Debug\net5.0-windows\2D Arrays and Nested Loops.vbproj.GenerateResource.cache
+D:\vb\2D Arrays and Nested Loops\obj\Debug\net5.0-windows\2D Arrays and Nested Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\2D Arrays and Nested Loops\obj\Debug\net5.0-windows\2D Arrays and Nested Loops.AssemblyInfoInputs.cache
+D:\vb\2D Arrays and Nested Loops\obj\Debug\net5.0-windows\2D Arrays and Nested Loops.AssemblyInfo.vb
+D:\vb\2D Arrays and Nested Loops\obj\Debug\net5.0-windows\2D Arrays and Nested Loops.vbproj.CoreCompileInputs.cache
+D:\vb\2D Arrays and Nested Loops\obj\Debug\net5.0-windows\2D Arrays and Nested Loops.dll
+D:\vb\2D Arrays and Nested Loops\obj\Debug\net5.0-windows\ref\2D Arrays and Nested Loops.dll
+D:\vb\2D Arrays and Nested Loops\obj\Debug\net5.0-windows\2D Arrays and Nested Loops.pdb
+D:\vb\2D Arrays and Nested Loops\obj\Debug\net5.0-windows\2D Arrays and Nested Loops.genruntimeconfig.cache
