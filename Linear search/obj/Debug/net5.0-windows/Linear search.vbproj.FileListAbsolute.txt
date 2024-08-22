@@ -1,0 +1,18 @@
+D:\vb\Linear search\bin\Debug\net5.0-windows\Linear search.exe
+D:\vb\Linear search\bin\Debug\net5.0-windows\Linear search.deps.json
+D:\vb\Linear search\bin\Debug\net5.0-windows\Linear search.runtimeconfig.json
+D:\vb\Linear search\bin\Debug\net5.0-windows\Linear search.runtimeconfig.dev.json
+D:\vb\Linear search\bin\Debug\net5.0-windows\Linear search.dll
+D:\vb\Linear search\bin\Debug\net5.0-windows\ref\Linear search.dll
+D:\vb\Linear search\bin\Debug\net5.0-windows\Linear search.pdb
+D:\vb\Linear search\obj\Debug\net5.0-windows\Linear search.vbproj.AssemblyReference.cache
+D:\vb\Linear search\obj\Debug\net5.0-windows\Linear_search.Form1.resources
+D:\vb\Linear search\obj\Debug\net5.0-windows\Linear search.vbproj.GenerateResource.cache
+D:\vb\Linear search\obj\Debug\net5.0-windows\Linear search.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\Linear search\obj\Debug\net5.0-windows\Linear search.AssemblyInfoInputs.cache
+D:\vb\Linear search\obj\Debug\net5.0-windows\Linear search.AssemblyInfo.vb
+D:\vb\Linear search\obj\Debug\net5.0-windows\Linear search.vbproj.CoreCompileInputs.cache
+D:\vb\Linear search\obj\Debug\net5.0-windows\Linear search.dll
+D:\vb\Linear search\obj\Debug\net5.0-windows\ref\Linear search.dll
+D:\vb\Linear search\obj\Debug\net5.0-windows\Linear search.pdb
+D:\vb\Linear search\obj\Debug\net5.0-windows\Linear search.genruntimeconfig.cache
