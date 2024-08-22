@@ -1,0 +1,18 @@
+D:\vb\Selection With IF Statement\bin\Debug\net5.0-windows\Selection With IF Statement.exe
+D:\vb\Selection With IF Statement\bin\Debug\net5.0-windows\Selection With IF Statement.deps.json
+D:\vb\Selection With IF Statement\bin\Debug\net5.0-windows\Selection With IF Statement.runtimeconfig.json
+D:\vb\Selection With IF Statement\bin\Debug\net5.0-windows\Selection With IF Statement.runtimeconfig.dev.json
+D:\vb\Selection With IF Statement\bin\Debug\net5.0-windows\Selection With IF Statement.dll
+D:\vb\Selection With IF Statement\bin\Debug\net5.0-windows\ref\Selection With IF Statement.dll
+D:\vb\Selection With IF Statement\bin\Debug\net5.0-windows\Selection With IF Statement.pdb
+D:\vb\Selection With IF Statement\obj\Debug\net5.0-windows\Selection With IF Statement.vbproj.AssemblyReference.cache
+D:\vb\Selection With IF Statement\obj\Debug\net5.0-windows\Selection_With_IF_Statement.Form1.resources
+D:\vb\Selection With IF Statement\obj\Debug\net5.0-windows\Selection With IF Statement.vbproj.GenerateResource.cache
+D:\vb\Selection With IF Statement\obj\Debug\net5.0-windows\Selection With IF Statement.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\Selection With IF Statement\obj\Debug\net5.0-windows\Selection With IF Statement.AssemblyInfoInputs.cache
+D:\vb\Selection With IF Statement\obj\Debug\net5.0-windows\Selection With IF Statement.AssemblyInfo.vb
+D:\vb\Selection With IF Statement\obj\Debug\net5.0-windows\Selection With IF Statement.vbproj.CoreCompileInputs.cache
+D:\vb\Selection With IF Statement\obj\Debug\net5.0-windows\Selection With IF Statement.dll
+D:\vb\Selection With IF Statement\obj\Debug\net5.0-windows\ref\Selection With IF Statement.dll
+D:\vb\Selection With IF Statement\obj\Debug\net5.0-windows\Selection With IF Statement.pdb
+D:\vb\Selection With IF Statement\obj\Debug\net5.0-windows\Selection With IF Statement.genruntimeconfig.cache
