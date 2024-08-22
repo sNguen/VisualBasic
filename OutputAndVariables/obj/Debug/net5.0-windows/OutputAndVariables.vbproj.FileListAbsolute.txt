@@ -1,0 +1,17 @@
+D:\vb\OutputAndVariables\bin\Debug\net5.0-windows\OutputAndVariables.exe
+D:\vb\OutputAndVariables\bin\Debug\net5.0-windows\OutputAndVariables.deps.json
+D:\vb\OutputAndVariables\bin\Debug\net5.0-windows\OutputAndVariables.runtimeconfig.json
+D:\vb\OutputAndVariables\bin\Debug\net5.0-windows\OutputAndVariables.runtimeconfig.dev.json
+D:\vb\OutputAndVariables\bin\Debug\net5.0-windows\OutputAndVariables.dll
+D:\vb\OutputAndVariables\bin\Debug\net5.0-windows\ref\OutputAndVariables.dll
+D:\vb\OutputAndVariables\bin\Debug\net5.0-windows\OutputAndVariables.pdb
+D:\vb\OutputAndVariables\obj\Debug\net5.0-windows\OutputAndVariables.Form1.resources
+D:\vb\OutputAndVariables\obj\Debug\net5.0-windows\OutputAndVariables.vbproj.GenerateResource.cache
+D:\vb\OutputAndVariables\obj\Debug\net5.0-windows\OutputAndVariables.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\OutputAndVariables\obj\Debug\net5.0-windows\OutputAndVariables.AssemblyInfoInputs.cache
+D:\vb\OutputAndVariables\obj\Debug\net5.0-windows\OutputAndVariables.AssemblyInfo.vb
+D:\vb\OutputAndVariables\obj\Debug\net5.0-windows\OutputAndVariables.vbproj.CoreCompileInputs.cache
+D:\vb\OutputAndVariables\obj\Debug\net5.0-windows\OutputAndVariables.dll
+D:\vb\OutputAndVariables\obj\Debug\net5.0-windows\ref\OutputAndVariables.dll
+D:\vb\OutputAndVariables\obj\Debug\net5.0-windows\OutputAndVariables.pdb
+D:\vb\OutputAndVariables\obj\Debug\net5.0-windows\OutputAndVariables.genruntimeconfig.cache
