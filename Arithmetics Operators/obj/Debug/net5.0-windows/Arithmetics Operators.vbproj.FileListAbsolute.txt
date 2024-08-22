@@ -1,0 +1,18 @@
+D:\vb\Arithmetics Operators\bin\Debug\net5.0-windows\Arithmetics Operators.exe
+D:\vb\Arithmetics Operators\bin\Debug\net5.0-windows\Arithmetics Operators.deps.json
+D:\vb\Arithmetics Operators\bin\Debug\net5.0-windows\Arithmetics Operators.runtimeconfig.json
+D:\vb\Arithmetics Operators\bin\Debug\net5.0-windows\Arithmetics Operators.runtimeconfig.dev.json
+D:\vb\Arithmetics Operators\bin\Debug\net5.0-windows\Arithmetics Operators.dll
+D:\vb\Arithmetics Operators\bin\Debug\net5.0-windows\ref\Arithmetics Operators.dll
+D:\vb\Arithmetics Operators\bin\Debug\net5.0-windows\Arithmetics Operators.pdb
+D:\vb\Arithmetics Operators\obj\Debug\net5.0-windows\Arithmetics_Operators.Form1.resources
+D:\vb\Arithmetics Operators\obj\Debug\net5.0-windows\Arithmetics Operators.vbproj.GenerateResource.cache
+D:\vb\Arithmetics Operators\obj\Debug\net5.0-windows\Arithmetics Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\Arithmetics Operators\obj\Debug\net5.0-windows\Arithmetics Operators.AssemblyInfoInputs.cache
+D:\vb\Arithmetics Operators\obj\Debug\net5.0-windows\Arithmetics Operators.AssemblyInfo.vb
+D:\vb\Arithmetics Operators\obj\Debug\net5.0-windows\Arithmetics Operators.vbproj.CoreCompileInputs.cache
+D:\vb\Arithmetics Operators\obj\Debug\net5.0-windows\Arithmetics Operators.dll
+D:\vb\Arithmetics Operators\obj\Debug\net5.0-windows\ref\Arithmetics Operators.dll
+D:\vb\Arithmetics Operators\obj\Debug\net5.0-windows\Arithmetics Operators.pdb
+D:\vb\Arithmetics Operators\obj\Debug\net5.0-windows\Arithmetics Operators.genruntimeconfig.cache
+D:\vb\Arithmetics Operators\obj\Debug\net5.0-windows\Arithmetics Operators.vbproj.AssemblyReference.cache
