@@ -1,0 +1,18 @@
+D:\vb\Practice For Next  and If Blocks\bin\Debug\net5.0-windows\Practice For Next  and If Blocks.exe
+D:\vb\Practice For Next  and If Blocks\bin\Debug\net5.0-windows\Practice For Next  and If Blocks.deps.json
+D:\vb\Practice For Next  and If Blocks\bin\Debug\net5.0-windows\Practice For Next  and If Blocks.runtimeconfig.json
+D:\vb\Practice For Next  and If Blocks\bin\Debug\net5.0-windows\Practice For Next  and If Blocks.runtimeconfig.dev.json
+D:\vb\Practice For Next  and If Blocks\bin\Debug\net5.0-windows\Practice For Next  and If Blocks.dll
+D:\vb\Practice For Next  and If Blocks\bin\Debug\net5.0-windows\ref\Practice For Next  and If Blocks.dll
+D:\vb\Practice For Next  and If Blocks\bin\Debug\net5.0-windows\Practice For Next  and If Blocks.pdb
+D:\vb\Practice For Next  and If Blocks\obj\Debug\net5.0-windows\Practice For Next  and If Blocks.vbproj.AssemblyReference.cache
+D:\vb\Practice For Next  and If Blocks\obj\Debug\net5.0-windows\Practice_For_Next__and_If_Blocks.Form1.resources
+D:\vb\Practice For Next  and If Blocks\obj\Debug\net5.0-windows\Practice For Next  and If Blocks.vbproj.GenerateResource.cache
+D:\vb\Practice For Next  and If Blocks\obj\Debug\net5.0-windows\Practice For Next  and If Blocks.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\Practice For Next  and If Blocks\obj\Debug\net5.0-windows\Practice For Next  and If Blocks.AssemblyInfoInputs.cache
+D:\vb\Practice For Next  and If Blocks\obj\Debug\net5.0-windows\Practice For Next  and If Blocks.AssemblyInfo.vb
+D:\vb\Practice For Next  and If Blocks\obj\Debug\net5.0-windows\Practice For Next  and If Blocks.vbproj.CoreCompileInputs.cache
+D:\vb\Practice For Next  and If Blocks\obj\Debug\net5.0-windows\Practice For Next  and If Blocks.dll
+D:\vb\Practice For Next  and If Blocks\obj\Debug\net5.0-windows\ref\Practice For Next  and If Blocks.dll
+D:\vb\Practice For Next  and If Blocks\obj\Debug\net5.0-windows\Practice For Next  and If Blocks.pdb
+D:\vb\Practice For Next  and If Blocks\obj\Debug\net5.0-windows\Practice For Next  and If Blocks.genruntimeconfig.cache
