@@ -1,0 +1,18 @@
+D:\vb\Selection with the select case construct\bin\Debug\net5.0-windows\Selection with the select case construct.exe
+D:\vb\Selection with the select case construct\bin\Debug\net5.0-windows\Selection with the select case construct.deps.json
+D:\vb\Selection with the select case construct\bin\Debug\net5.0-windows\Selection with the select case construct.runtimeconfig.json
+D:\vb\Selection with the select case construct\bin\Debug\net5.0-windows\Selection with the select case construct.runtimeconfig.dev.json
+D:\vb\Selection with the select case construct\bin\Debug\net5.0-windows\Selection with the select case construct.dll
+D:\vb\Selection with the select case construct\bin\Debug\net5.0-windows\ref\Selection with the select case construct.dll
+D:\vb\Selection with the select case construct\bin\Debug\net5.0-windows\Selection with the select case construct.pdb
+D:\vb\Selection with the select case construct\obj\Debug\net5.0-windows\Selection with the select case construct.vbproj.AssemblyReference.cache
+D:\vb\Selection with the select case construct\obj\Debug\net5.0-windows\Selection_with_the_select_case_construct.Form1.resources
+D:\vb\Selection with the select case construct\obj\Debug\net5.0-windows\Selection with the select case construct.vbproj.GenerateResource.cache
+D:\vb\Selection with the select case construct\obj\Debug\net5.0-windows\Selection with the select case construct.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\Selection with the select case construct\obj\Debug\net5.0-windows\Selection with the select case construct.AssemblyInfoInputs.cache
+D:\vb\Selection with the select case construct\obj\Debug\net5.0-windows\Selection with the select case construct.AssemblyInfo.vb
+D:\vb\Selection with the select case construct\obj\Debug\net5.0-windows\Selection with the select case construct.vbproj.CoreCompileInputs.cache
+D:\vb\Selection with the select case construct\obj\Debug\net5.0-windows\Selection with the select case construct.dll
+D:\vb\Selection with the select case construct\obj\Debug\net5.0-windows\ref\Selection with the select case construct.dll
+D:\vb\Selection with the select case construct\obj\Debug\net5.0-windows\Selection with the select case construct.pdb
+D:\vb\Selection with the select case construct\obj\Debug\net5.0-windows\Selection with the select case construct.genruntimeconfig.cache

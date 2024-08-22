@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Selection with the select case construct/1.0.0": {
+        "runtime": {
+          "Selection with the select case construct.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Selection with the select case construct/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
