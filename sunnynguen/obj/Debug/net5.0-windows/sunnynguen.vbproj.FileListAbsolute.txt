@@ -1,0 +1,17 @@
+D:\vb\sunnynguen\bin\Debug\net5.0-windows\sunnynguen.exe
+D:\vb\sunnynguen\bin\Debug\net5.0-windows\sunnynguen.deps.json
+D:\vb\sunnynguen\bin\Debug\net5.0-windows\sunnynguen.runtimeconfig.json
+D:\vb\sunnynguen\bin\Debug\net5.0-windows\sunnynguen.runtimeconfig.dev.json
+D:\vb\sunnynguen\bin\Debug\net5.0-windows\sunnynguen.dll
+D:\vb\sunnynguen\bin\Debug\net5.0-windows\ref\sunnynguen.dll
+D:\vb\sunnynguen\bin\Debug\net5.0-windows\sunnynguen.pdb
+D:\vb\sunnynguen\obj\Debug\net5.0-windows\sunnynguen.Form1.resources
+D:\vb\sunnynguen\obj\Debug\net5.0-windows\sunnynguen.vbproj.GenerateResource.cache
+D:\vb\sunnynguen\obj\Debug\net5.0-windows\sunnynguen.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\sunnynguen\obj\Debug\net5.0-windows\sunnynguen.AssemblyInfoInputs.cache
+D:\vb\sunnynguen\obj\Debug\net5.0-windows\sunnynguen.AssemblyInfo.vb
+D:\vb\sunnynguen\obj\Debug\net5.0-windows\sunnynguen.vbproj.CoreCompileInputs.cache
+D:\vb\sunnynguen\obj\Debug\net5.0-windows\sunnynguen.dll
+D:\vb\sunnynguen\obj\Debug\net5.0-windows\ref\sunnynguen.dll
+D:\vb\sunnynguen\obj\Debug\net5.0-windows\sunnynguen.pdb
+D:\vb\sunnynguen\obj\Debug\net5.0-windows\sunnynguen.genruntimeconfig.cache
