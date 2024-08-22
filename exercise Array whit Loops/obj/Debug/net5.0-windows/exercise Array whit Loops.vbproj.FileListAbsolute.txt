@@ -1,0 +1,18 @@
+D:\vb\exercise Array whit Loops\bin\Debug\net5.0-windows\exercise Array whit Loops.exe
+D:\vb\exercise Array whit Loops\bin\Debug\net5.0-windows\exercise Array whit Loops.deps.json
+D:\vb\exercise Array whit Loops\bin\Debug\net5.0-windows\exercise Array whit Loops.runtimeconfig.json
+D:\vb\exercise Array whit Loops\bin\Debug\net5.0-windows\exercise Array whit Loops.runtimeconfig.dev.json
+D:\vb\exercise Array whit Loops\bin\Debug\net5.0-windows\exercise Array whit Loops.dll
+D:\vb\exercise Array whit Loops\bin\Debug\net5.0-windows\ref\exercise Array whit Loops.dll
+D:\vb\exercise Array whit Loops\bin\Debug\net5.0-windows\exercise Array whit Loops.pdb
+D:\vb\exercise Array whit Loops\obj\Debug\net5.0-windows\exercise Array whit Loops.vbproj.AssemblyReference.cache
+D:\vb\exercise Array whit Loops\obj\Debug\net5.0-windows\exercise_Array_whit_Loops.Form1.resources
+D:\vb\exercise Array whit Loops\obj\Debug\net5.0-windows\exercise Array whit Loops.vbproj.GenerateResource.cache
+D:\vb\exercise Array whit Loops\obj\Debug\net5.0-windows\exercise Array whit Loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\exercise Array whit Loops\obj\Debug\net5.0-windows\exercise Array whit Loops.AssemblyInfoInputs.cache
+D:\vb\exercise Array whit Loops\obj\Debug\net5.0-windows\exercise Array whit Loops.AssemblyInfo.vb
+D:\vb\exercise Array whit Loops\obj\Debug\net5.0-windows\exercise Array whit Loops.vbproj.CoreCompileInputs.cache
+D:\vb\exercise Array whit Loops\obj\Debug\net5.0-windows\exercise Array whit Loops.dll
+D:\vb\exercise Array whit Loops\obj\Debug\net5.0-windows\ref\exercise Array whit Loops.dll
+D:\vb\exercise Array whit Loops\obj\Debug\net5.0-windows\exercise Array whit Loops.pdb
+D:\vb\exercise Array whit Loops\obj\Debug\net5.0-windows\exercise Array whit Loops.genruntimeconfig.cache
