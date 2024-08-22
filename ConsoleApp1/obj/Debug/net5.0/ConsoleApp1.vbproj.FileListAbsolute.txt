@@ -1,0 +1,16 @@
+D:\vb\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.exe
+D:\vb\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.deps.json
+D:\vb\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.json
+D:\vb\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.runtimeconfig.dev.json
+D:\vb\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.dll
+D:\vb\ConsoleApp1\bin\Debug\net5.0\ref\ConsoleApp1.dll
+D:\vb\ConsoleApp1\bin\Debug\net5.0\ConsoleApp1.pdb
+D:\vb\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.vbproj.AssemblyReference.cache
+D:\vb\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\vb\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.AssemblyInfo.vb
+D:\vb\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.vbproj.CoreCompileInputs.cache
+D:\vb\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.dll
+D:\vb\ConsoleApp1\obj\Debug\net5.0\ref\ConsoleApp1.dll
+D:\vb\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.pdb
+D:\vb\ConsoleApp1\obj\Debug\net5.0\ConsoleApp1.genruntimeconfig.cache
