@@ -1,0 +1,17 @@
+D:\vb\Complex arithmetics expressions\bin\Debug\net5.0-windows\Complex arithmetics expressions.exe
+D:\vb\Complex arithmetics expressions\bin\Debug\net5.0-windows\Complex arithmetics expressions.deps.json
+D:\vb\Complex arithmetics expressions\bin\Debug\net5.0-windows\Complex arithmetics expressions.runtimeconfig.json
+D:\vb\Complex arithmetics expressions\bin\Debug\net5.0-windows\Complex arithmetics expressions.runtimeconfig.dev.json
+D:\vb\Complex arithmetics expressions\bin\Debug\net5.0-windows\Complex arithmetics expressions.dll
+D:\vb\Complex arithmetics expressions\bin\Debug\net5.0-windows\ref\Complex arithmetics expressions.dll
+D:\vb\Complex arithmetics expressions\bin\Debug\net5.0-windows\Complex arithmetics expressions.pdb
+D:\vb\Complex arithmetics expressions\obj\Debug\net5.0-windows\Complex_arithmetics_expressions.Form1.resources
+D:\vb\Complex arithmetics expressions\obj\Debug\net5.0-windows\Complex arithmetics expressions.vbproj.GenerateResource.cache
+D:\vb\Complex arithmetics expressions\obj\Debug\net5.0-windows\Complex arithmetics expressions.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\Complex arithmetics expressions\obj\Debug\net5.0-windows\Complex arithmetics expressions.AssemblyInfoInputs.cache
+D:\vb\Complex arithmetics expressions\obj\Debug\net5.0-windows\Complex arithmetics expressions.AssemblyInfo.vb
+D:\vb\Complex arithmetics expressions\obj\Debug\net5.0-windows\Complex arithmetics expressions.vbproj.CoreCompileInputs.cache
+D:\vb\Complex arithmetics expressions\obj\Debug\net5.0-windows\Complex arithmetics expressions.dll
+D:\vb\Complex arithmetics expressions\obj\Debug\net5.0-windows\ref\Complex arithmetics expressions.dll
+D:\vb\Complex arithmetics expressions\obj\Debug\net5.0-windows\Complex arithmetics expressions.pdb
+D:\vb\Complex arithmetics expressions\obj\Debug\net5.0-windows\Complex arithmetics expressions.genruntimeconfig.cache
