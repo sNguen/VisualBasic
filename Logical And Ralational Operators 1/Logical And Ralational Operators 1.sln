@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34031.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Logical And Ralational Operators 1", "Logical And Ralational Operators 1.vbproj", "{5FEA2996-6ABD-47F1-B0D4-49BD92EB8FCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FEA2996-6ABD-47F1-B0D4-49BD92EB8FCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FEA2996-6ABD-47F1-B0D4-49BD92EB8FCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FEA2996-6ABD-47F1-B0D4-49BD92EB8FCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FEA2996-6ABD-47F1-B0D4-49BD92EB8FCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4088FC87-22DD-4980-87CC-D721C95D5A26}
+	EndGlobalSection
+EndGlobal

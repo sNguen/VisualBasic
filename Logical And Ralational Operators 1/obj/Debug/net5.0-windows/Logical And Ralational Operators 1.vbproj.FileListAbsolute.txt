@@ -1,0 +1,18 @@
+D:\vb\Logical And Ralational Operators 1\bin\Debug\net5.0-windows\Logical And Ralational Operators 1.exe
+D:\vb\Logical And Ralational Operators 1\bin\Debug\net5.0-windows\Logical And Ralational Operators 1.deps.json
+D:\vb\Logical And Ralational Operators 1\bin\Debug\net5.0-windows\Logical And Ralational Operators 1.runtimeconfig.json
+D:\vb\Logical And Ralational Operators 1\bin\Debug\net5.0-windows\Logical And Ralational Operators 1.runtimeconfig.dev.json
+D:\vb\Logical And Ralational Operators 1\bin\Debug\net5.0-windows\Logical And Ralational Operators 1.dll
+D:\vb\Logical And Ralational Operators 1\bin\Debug\net5.0-windows\ref\Logical And Ralational Operators 1.dll
+D:\vb\Logical And Ralational Operators 1\bin\Debug\net5.0-windows\Logical And Ralational Operators 1.pdb
+D:\vb\Logical And Ralational Operators 1\obj\Debug\net5.0-windows\Logical_And_Ralational_Operators_1.Form1.resources
+D:\vb\Logical And Ralational Operators 1\obj\Debug\net5.0-windows\Logical And Ralational Operators 1.vbproj.GenerateResource.cache
+D:\vb\Logical And Ralational Operators 1\obj\Debug\net5.0-windows\Logical And Ralational Operators 1.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\Logical And Ralational Operators 1\obj\Debug\net5.0-windows\Logical And Ralational Operators 1.AssemblyInfoInputs.cache
+D:\vb\Logical And Ralational Operators 1\obj\Debug\net5.0-windows\Logical And Ralational Operators 1.AssemblyInfo.vb
+D:\vb\Logical And Ralational Operators 1\obj\Debug\net5.0-windows\Logical And Ralational Operators 1.vbproj.CoreCompileInputs.cache
+D:\vb\Logical And Ralational Operators 1\obj\Debug\net5.0-windows\Logical And Ralational Operators 1.dll
+D:\vb\Logical And Ralational Operators 1\obj\Debug\net5.0-windows\ref\Logical And Ralational Operators 1.dll
+D:\vb\Logical And Ralational Operators 1\obj\Debug\net5.0-windows\Logical And Ralational Operators 1.pdb
+D:\vb\Logical And Ralational Operators 1\obj\Debug\net5.0-windows\Logical And Ralational Operators 1.genruntimeconfig.cache
+D:\vb\Logical And Ralational Operators 1\obj\Debug\net5.0-windows\Logical And Ralational Operators 1.vbproj.AssemblyReference.cache
