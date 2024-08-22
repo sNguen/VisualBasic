@@ -1,0 +1,17 @@
+D:\vb\Array Variables\bin\Debug\net5.0-windows\Array Variables.exe
+D:\vb\Array Variables\bin\Debug\net5.0-windows\Array Variables.deps.json
+D:\vb\Array Variables\bin\Debug\net5.0-windows\Array Variables.runtimeconfig.json
+D:\vb\Array Variables\bin\Debug\net5.0-windows\Array Variables.runtimeconfig.dev.json
+D:\vb\Array Variables\bin\Debug\net5.0-windows\Array Variables.dll
+D:\vb\Array Variables\bin\Debug\net5.0-windows\ref\Array Variables.dll
+D:\vb\Array Variables\bin\Debug\net5.0-windows\Array Variables.pdb
+D:\vb\Array Variables\obj\Debug\net5.0-windows\Array_Variables.Form1.resources
+D:\vb\Array Variables\obj\Debug\net5.0-windows\Array Variables.vbproj.GenerateResource.cache
+D:\vb\Array Variables\obj\Debug\net5.0-windows\Array Variables.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\Array Variables\obj\Debug\net5.0-windows\Array Variables.AssemblyInfoInputs.cache
+D:\vb\Array Variables\obj\Debug\net5.0-windows\Array Variables.AssemblyInfo.vb
+D:\vb\Array Variables\obj\Debug\net5.0-windows\Array Variables.vbproj.CoreCompileInputs.cache
+D:\vb\Array Variables\obj\Debug\net5.0-windows\Array Variables.dll
+D:\vb\Array Variables\obj\Debug\net5.0-windows\ref\Array Variables.dll
+D:\vb\Array Variables\obj\Debug\net5.0-windows\Array Variables.pdb
+D:\vb\Array Variables\obj\Debug\net5.0-windows\Array Variables.genruntimeconfig.cache
