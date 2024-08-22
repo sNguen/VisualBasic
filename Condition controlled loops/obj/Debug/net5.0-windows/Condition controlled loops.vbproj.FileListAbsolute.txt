@@ -1,0 +1,18 @@
+D:\vb\Condition controlled loops\bin\Debug\net5.0-windows\Condition controlled loops.exe
+D:\vb\Condition controlled loops\bin\Debug\net5.0-windows\Condition controlled loops.deps.json
+D:\vb\Condition controlled loops\bin\Debug\net5.0-windows\Condition controlled loops.runtimeconfig.json
+D:\vb\Condition controlled loops\bin\Debug\net5.0-windows\Condition controlled loops.runtimeconfig.dev.json
+D:\vb\Condition controlled loops\bin\Debug\net5.0-windows\Condition controlled loops.dll
+D:\vb\Condition controlled loops\bin\Debug\net5.0-windows\ref\Condition controlled loops.dll
+D:\vb\Condition controlled loops\bin\Debug\net5.0-windows\Condition controlled loops.pdb
+D:\vb\Condition controlled loops\obj\Debug\net5.0-windows\Condition_controlled_loops.Form1.resources
+D:\vb\Condition controlled loops\obj\Debug\net5.0-windows\Condition controlled loops.vbproj.GenerateResource.cache
+D:\vb\Condition controlled loops\obj\Debug\net5.0-windows\Condition controlled loops.GeneratedMSBuildEditorConfig.editorconfig
+D:\vb\Condition controlled loops\obj\Debug\net5.0-windows\Condition controlled loops.AssemblyInfoInputs.cache
+D:\vb\Condition controlled loops\obj\Debug\net5.0-windows\Condition controlled loops.AssemblyInfo.vb
+D:\vb\Condition controlled loops\obj\Debug\net5.0-windows\Condition controlled loops.vbproj.CoreCompileInputs.cache
+D:\vb\Condition controlled loops\obj\Debug\net5.0-windows\Condition controlled loops.dll
+D:\vb\Condition controlled loops\obj\Debug\net5.0-windows\ref\Condition controlled loops.dll
+D:\vb\Condition controlled loops\obj\Debug\net5.0-windows\Condition controlled loops.pdb
+D:\vb\Condition controlled loops\obj\Debug\net5.0-windows\Condition controlled loops.genruntimeconfig.cache
+D:\vb\Condition controlled loops\obj\Debug\net5.0-windows\Condition controlled loops.vbproj.AssemblyReference.cache
